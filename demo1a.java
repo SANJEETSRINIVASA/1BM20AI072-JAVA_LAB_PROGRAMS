@@ -30,7 +30,7 @@ class Retailitem {
    }
 }
 
-public class demo {
+public class demo1a {
    public static void main(String[] args) {
       Retailitem r1 = new Retailitem("x", 1, 900);
       Retailitem r2 = new Retailitem("y", 2, 96785);
